@@ -1,7 +1,5 @@
 # C++ Design Patterns Project
 
-![Project Logo/Image (if applicable)](your_project_logo_or_image_url.png)
-
 ## Overview
 This C++ project is designed to help you learn and implement various design patterns. Design patterns are recurring solutions to common problems in software design, and understanding them is crucial for writing clean, maintainable, and efficient code.
 
